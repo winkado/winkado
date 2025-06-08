@@ -1,5 +1,5 @@
 # ``Hello, World!``
-### I'm Noah - a professional nerd, and efficient procrastinator.
+### I'm Noah - a Software Engineer and Musician.
 
 - 📖 I have a portfolio you can find in my repositories, or by clicking [here](https://winkado.github.io)
 - 💻 I'm currently a student who's interested in software and web development 
